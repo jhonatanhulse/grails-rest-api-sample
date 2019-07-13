@@ -24,7 +24,7 @@ I also created some tests for the most important parts of this project.
 
 This project is currently using Grails v3.3.10, if you can run this version of Grails you shouldn't have any problems.
 
-You also must have a Slack channel where incoming webhooks are configured properly. For more details see https://api.slack.com/incoming-webhooks.  
+You must also have a Slack channel where incoming webhooks are configured properly. For more details see https://api.slack.com/incoming-webhooks.  
 
 ## Installation
 

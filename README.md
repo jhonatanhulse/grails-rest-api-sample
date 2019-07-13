@@ -47,14 +47,6 @@ Now you can run the project using Grails CLI.
 grails run-app
 ```
 
-## Testing
-
-If you want to run the tests just use the Grails CLI.
-
-```bash
-grails test-app
-```
-
 ## How to use?
 
 You can send messages to your Slack channel making `POST` requests to the endpoint `/message`.
@@ -69,3 +61,11 @@ curl -X POST \
 ```
 
 After each request you should see the message in your Slack channel.
+
+## Testing
+
+If you want to run the tests just use the Grails CLI.
+
+```bash
+grails test-app
+```

@@ -2,7 +2,9 @@ package grails.rest.api.sample
 
 import grails.boot.config.GrailsAutoConfiguration
 import groovy.transform.CompileStatic
+import org.springframework.context.annotation.ComponentScan
 
+@ComponentScan
 @CompileStatic
 class Application extends GrailsAutoConfiguration {
 
